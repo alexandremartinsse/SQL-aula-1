@@ -1,0 +1,6 @@
+CREATE TABLE Alunos(
+id INTEGER PRIMARY KEY AUTOINCREMENT,
+  nome TEXT,
+  idade INTEGER
+  
+);
